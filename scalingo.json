@@ -1,0 +1,9 @@
+{
+	"name": "Shirakawa Ayane",
+	"env": {
+		"CONFIG_FILE_URL": {
+			"description": "Please Enter your Config.ini file Raw URL"
+	       }
+	},
+    	"stack": "container"
+}
