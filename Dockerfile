@@ -13,4 +13,4 @@ RUN apt -qq update --fix-missing && \
 
 COPY . .
 
-CMD ["bash", "start.sh"]
+CMD ["bash", "mulai.sh"]
