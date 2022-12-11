@@ -8,3 +8,8 @@ flask
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
+gunicorn
+lk21
+lxml
+megasdkrestclient
+pillow
