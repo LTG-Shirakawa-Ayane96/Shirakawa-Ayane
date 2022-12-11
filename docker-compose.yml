@@ -1,11 +1,9 @@
-version: "3.3"
+version: "96"
 
 services:
-  app:
+  ayane96:
     build: .
-    command: bash start.sh
+    command: bash mulai.sh
     restart: on-failure
     environment:
       - CONFIG_FILE_URL=
-    ports:
-      - "127.0.0.1:80:80"
