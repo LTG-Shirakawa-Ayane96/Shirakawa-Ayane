@@ -1,3 +1,5 @@
 anytree
 aria2p
 asyncio
+beautifulsoup4
+cfscrape
