@@ -17,7 +17,7 @@ psutil
 psycopg2-binary
 pybase64
 pyrogram
-python3
+python3.10
 python-dotenv
 python-magic
 python-telegram-bot
